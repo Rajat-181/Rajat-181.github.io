@@ -34,7 +34,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: linkedin.com/in/rajatmittal18
+   linkedin: linkedin.com/in/rajatmittal18
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -45,14 +45,10 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
+  - name: Machine Learning
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Software Development
 
 theme: jekyll-theme-slate
